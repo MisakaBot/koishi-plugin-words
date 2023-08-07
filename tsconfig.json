@@ -12,9 +12,9 @@
     "moduleResolution": "node",
     "jsx": "react-jsx",
     "jsxImportSource": "@satorijs/element",
-    "resolveJsonModule": true,
+    // "resolveJsonModule": true,
   },
   "include": [
-    "src",
+    "src"
   ],
 }
